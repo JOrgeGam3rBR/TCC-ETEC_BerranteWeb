@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/web/perfil.jsp</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/web/cadastrar-funcionario.jsp</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/src/java/br/com/berranteweb/controle/CadastrarFuncionario.java</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/src/java/br/com/berranteweb/controle/CadastrarFazenda.java</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/web/listar-funcionario.jsp</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/src/java/br/com/berranteweb/dao/FuncionarioDAO.java</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/src/java/br/com/berranteweb/controle/ExcluirFuncionario.java</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/web/listar-animais.jsp</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/src/java/br/com/berranteweb/controle/CarregarAnimal.java</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/src/java/br/com/berranteweb/dao/FazendaDAO.java</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/web/assets/css/login-registro.css</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/src/java/br/com/berranteweb/dao/PecuaristaDAO.java</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/src/java/br/com/berranteweb/controle/ListarFazendaPorPecuarista.java</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/web/contato.jsp</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/src/java/br/com/berranteweb/controle/CarregarPecuarista.java</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/web/Login.jsp</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/src/java/br/com/berranteweb/controle/ExcluirAnimal.java</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/web/index.jsp</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/web/contato-login.jsp</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/src/java/br/com/berranteweb/controle/ListarFuncionarioPorFazenda.java</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/src/java/br/com/berranteweb/controle/ListarAnimalPorFazenda.java</file>
+            <file>file:/C:/Users/jorge/Documents/NetBeansProjects/Berrante/web/listar-fazenda.jsp</file>
+        </group>
+    </open-files>
+</project-private>
